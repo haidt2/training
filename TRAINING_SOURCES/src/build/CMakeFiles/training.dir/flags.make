@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/dell/Documents/ss1/session_01_src/TRAINING_SOURCES/include
+CXX_INCLUDES = -I/home/dell/Documents/ss1/session_01_src/TRAINING_SOURCES/include -I/home/dell/Documents/branch/training/TRAINING_SOURCES/src/png++-0.2.9
 
-CXX_FLAGS = 
+CXX_FLAGS =  -std=c++17 -pthread -lstdc++fs -O3 -fPIC
 

@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/training.dir/cmake_images/main.cpp.o CMakeFiles/training.dir/lib/lodepng.cpp.o CMakeFiles/training.dir/lib/lodepng_image.cpp.o -o training 
+/usr/bin/c++  -std=c++17 -pthread -lstdc++fs -O3 -fPIC CMakeFiles/training.dir/cmake_images/main.cpp.o CMakeFiles/training.dir/lib/lodepng.cpp.o CMakeFiles/training.dir/lib/lodepng_image.cpp.o -o training 

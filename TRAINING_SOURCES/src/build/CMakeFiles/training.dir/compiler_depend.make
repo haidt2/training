@@ -19,6 +19,8 @@ CMakeFiles/training.dir/cmake_images/main.cpp.o: ../cmake_images/main.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
   /usr/include/strings.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/11/vector \
   /usr/include/c++/11/bits/stl_algobase.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -73,6 +75,7 @@ CMakeFiles/training.dir/cmake_images/main.cpp.o: ../cmake_images/main.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/11/cstdint \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h \
   /usr/include/stdint.h \
@@ -141,8 +144,11 @@ CMakeFiles/training.dir/cmake_images/main.cpp.o: ../cmake_images/main.cpp \
   /usr/include/x86_64-linux-gnu/sys/select.h \
   /usr/include/x86_64-linux-gnu/bits/select.h \
   /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/alloca.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/11/bits/std_abs.h \
   /usr/include/c++/11/cstdio \
   /usr/include/stdio.h \
@@ -151,6 +157,8 @@ CMakeFiles/training.dir/cmake_images/main.cpp.o: ../cmake_images/main.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/11/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -189,7 +197,8 @@ CMakeFiles/training.dir/cmake_images/main.cpp.o: ../cmake_images/main.cpp \
   /usr/include/c++/11/bits/basic_ios.tcc \
   /usr/include/c++/11/bits/ostream.tcc \
   /usr/include/c++/11/istream \
-  /usr/include/c++/11/bits/istream.tcc
+  /usr/include/c++/11/bits/istream.tcc \
+  /home/dell/Documents/ss1/session_01_src/TRAINING_SOURCES/include/pngpp_image.h
 
 CMakeFiles/training.dir/lib/lodepng.cpp.o: ../lib/lodepng.cpp \
   /usr/include/stdc-predef.h \
@@ -208,6 +217,8 @@ CMakeFiles/training.dir/lib/lodepng.cpp.o: ../lib/lodepng.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
   /usr/include/strings.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/11/vector \
   /usr/include/c++/11/bits/stl_algobase.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -262,6 +273,7 @@ CMakeFiles/training.dir/lib/lodepng.cpp.o: ../lib/lodepng.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/11/cstdint \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h \
   /usr/include/stdint.h \
@@ -330,8 +342,11 @@ CMakeFiles/training.dir/lib/lodepng.cpp.o: ../lib/lodepng.cpp \
   /usr/include/x86_64-linux-gnu/sys/select.h \
   /usr/include/x86_64-linux-gnu/bits/select.h \
   /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/alloca.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/11/bits/std_abs.h \
   /usr/include/c++/11/cstdio \
   /usr/include/stdio.h \
@@ -340,6 +355,8 @@ CMakeFiles/training.dir/lib/lodepng.cpp.o: ../lib/lodepng.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/11/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -379,6 +396,8 @@ CMakeFiles/training.dir/lib/lodepng_image.cpp.o: ../lib/lodepng_image.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
   /usr/include/strings.h \
+  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
   /usr/include/c++/11/vector \
   /usr/include/c++/11/bits/stl_algobase.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -433,6 +452,7 @@ CMakeFiles/training.dir/lib/lodepng_image.cpp.o: ../lib/lodepng_image.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/11/cstdint \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h \
   /usr/include/stdint.h \
@@ -501,8 +521,11 @@ CMakeFiles/training.dir/lib/lodepng_image.cpp.o: ../lib/lodepng_image.cpp \
   /usr/include/x86_64-linux-gnu/sys/select.h \
   /usr/include/x86_64-linux-gnu/bits/select.h \
   /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/alloca.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/11/bits/std_abs.h \
   /usr/include/c++/11/cstdio \
   /usr/include/stdio.h \
@@ -511,6 +534,8 @@ CMakeFiles/training.dir/lib/lodepng_image.cpp.o: ../lib/lodepng_image.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/11/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -574,13 +599,9 @@ CMakeFiles/training.dir/lib/lodepng_image.cpp.o: ../lib/lodepng_image.cpp \
 
 /usr/include/c++/11/bits/basic_ios.tcc:
 
-/usr/include/c++/11/bits/locale_facets.tcc:
-
 /usr/include/x86_64-linux-gnu/c++/11/bits/ctype_inline.h:
 
 /usr/include/c++/11/bits/streambuf_iterator.h:
-
-/usr/include/c++/11/cwctype:
 
 /usr/include/c++/11/bits/locale_facets.h:
 
@@ -622,13 +643,23 @@ CMakeFiles/training.dir/lib/lodepng_image.cpp.o: ../lib/lodepng_image.cpp \
 
 /usr/include/c++/11/cerrno:
 
+/usr/include/c++/11/bits/locale_facets.tcc:
+
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:
+
 /usr/include/stdio.h:
 
 /usr/include/c++/11/cstdio:
 
 /usr/include/c++/11/bits/std_abs.h:
 
+/usr/include/c++/11/cwctype:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:
+
 /usr/include/alloca.h:
+
+/usr/include/x86_64-linux-gnu/bits/select2.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
 
@@ -648,11 +679,9 @@ CMakeFiles/training.dir/lib/lodepng_image.cpp.o: ../lib/lodepng_image.cpp \
 
 /usr/include/c++/11/ext/string_conversions.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:
+/usr/include/c++/11/string_view:
 
-/usr/include/c++/11/string:
-
-/usr/include/x86_64-linux-gnu/bits/types/time_t.h:
+/usr/include/x86_64-linux-gnu/c++/11/bits/atomic_word.h:
 
 /usr/include/c++/11/bits/range_access.h:
 
@@ -678,12 +707,6 @@ CMakeFiles/training.dir/lib/lodepng_image.cpp.o: ../lib/lodepng_image.cpp \
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/c++locale.h:
 
-/usr/include/c++/11/bits/stl_uninitialized.h:
-
-/usr/include/c++/11/bits/stl_iterator_base_funcs.h:
-
-/usr/include/ctype.h:
-
 /usr/include/errno.h:
 
 /home/dell/Documents/ss1/session_01_src/TRAINING_SOURCES/include/lodepng_image.h:
@@ -695,6 +718,12 @@ CMakeFiles/training.dir/lib/lodepng_image.cpp.o: ../lib/lodepng_image.cpp \
 /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
 
 /usr/include/c++/11/bits/predefined_ops.h:
+
+/usr/include/c++/11/bits/stl_iterator_base_funcs.h:
+
+/usr/include/c++/11/bits/stl_uninitialized.h:
+
+/usr/include/ctype.h:
 
 /usr/include/c++/11/bits/functional_hash.h:
 
@@ -720,6 +749,12 @@ CMakeFiles/training.dir/lib/lodepng_image.cpp.o: ../lib/lodepng_image.cpp \
 
 /usr/include/c++/11/bits/stl_construct.h:
 
+/usr/include/x86_64-linux-gnu/sys/single_threaded.h:
+
+/usr/include/c++/11/bits/allocator.h:
+
+/usr/include/c++/11/pstl/pstl_config.h:
+
 /usr/include/c++/11/bits/alloc_traits.h:
 
 /usr/include/features.h:
@@ -744,6 +779,8 @@ CMakeFiles/training.dir/lib/lodepng_image.cpp.o: ../lib/lodepng_image.cpp \
 
 /usr/include/x86_64-linux-gnu/asm/errno.h:
 
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:
+
 /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h:
 
 /usr/include/c++/11/system_error:
@@ -752,7 +789,15 @@ CMakeFiles/training.dir/lib/lodepng_image.cpp.o: ../lib/lodepng_image.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/endianness.h:
 
+/usr/include/x86_64-linux-gnu/bits/string_fortified.h:
+
 /usr/include/c++/11/type_traits:
+
+/usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:
+
+/usr/include/c++/11/string:
+
+/usr/include/x86_64-linux-gnu/bits/types/time_t.h:
 
 /usr/include/c++/11/cstdlib:
 
@@ -765,10 +810,6 @@ CMakeFiles/training.dir/lib/lodepng_image.cpp.o: ../lib/lodepng_image.cpp \
 /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h:
 
 /usr/include/c++/11/bits/exception_defines.h:
-
-/usr/include/x86_64-linux-gnu/c++/11/bits/atomic_word.h:
-
-/usr/include/c++/11/string_view:
 
 /usr/include/c++/11/bits/ostream.tcc:
 
@@ -794,6 +835,8 @@ CMakeFiles/training.dir/lib/lodepng_image.cpp.o: ../lib/lodepng_image.cpp \
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/gthr.h:
 
+/usr/include/x86_64-linux-gnu/bits/stdio.h:
+
 /usr/include/string.h:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h:
@@ -811,12 +854,6 @@ CMakeFiles/training.dir/lib/lodepng_image.cpp.o: ../lib/lodepng_image.cpp \
 ../cmake_images/main.cpp:
 
 /usr/include/c++/11/bits/char_traits.h:
-
-/usr/include/c++/11/bits/allocator.h:
-
-/usr/include/c++/11/pstl/pstl_config.h:
-
-/usr/include/x86_64-linux-gnu/sys/single_threaded.h:
 
 /usr/include/x86_64-linux-gnu/bits/waitstatus.h:
 
@@ -840,9 +877,13 @@ CMakeFiles/training.dir/lib/lodepng_image.cpp.o: ../lib/lodepng_image.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
 
+/usr/include/x86_64-linux-gnu/bits/strings_fortified.h:
+
 /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
+
+/home/dell/Documents/ss1/session_01_src/TRAINING_SOURCES/include/pngpp_image.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
 
@@ -858,11 +899,19 @@ CMakeFiles/training.dir/lib/lodepng_image.cpp.o: ../lib/lodepng_image.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/types/FILE.h:
 
-/usr/include/c++/11/bits/stringfwd.h:
-
 /usr/include/c++/11/bits/memoryfwd.h:
 
+/usr/include/c++/11/bits/stringfwd.h:
+
 /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar2.h:
+
+/usr/include/c++/11/iostream:
+
+/usr/include/x86_64-linux-gnu/bits/select.h:
+
+/usr/include/c++/11/backward/binders.h:
 
 /usr/include/c++/11/cstdint:
 
@@ -899,12 +948,6 @@ CMakeFiles/training.dir/lib/lodepng_image.cpp.o: ../lib/lodepng_image.cpp \
 /usr/include/c++/11/ext/alloc_traits.h:
 
 /usr/include/c++/11/bits/cxxabi_forced.h:
-
-/usr/include/c++/11/iostream:
-
-/usr/include/x86_64-linux-gnu/bits/select.h:
-
-/usr/include/c++/11/backward/binders.h:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs.h:
 
