@@ -1,8 +1,9 @@
 #include "lodepng_image.h"
 
 lodepng::State state;
-LodepngImage lodepngimage;
+
 bool LodepngImage::OpenImage(std::string file_path){
+    
     lodepng::load_file(buffer, file_path);
     unsigned error = lodepng::decode(image, w, h, state, buffer);
     if(error) {
