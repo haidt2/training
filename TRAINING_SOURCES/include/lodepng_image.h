@@ -15,8 +15,9 @@ public:
     // ~LodepngImage();
     bool OpenImage(std::string);
     unsigned GetW();
-    unsigned GetH();
+    unsigned GetH(); 
     void ShowImageInfo(unsigned w,unsigned h);
+    
 };
 
 
