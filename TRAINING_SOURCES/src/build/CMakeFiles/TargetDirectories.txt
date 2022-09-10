@@ -1,0 +1,3 @@
+/home/dell/Documents/ss1/session_01_src/TRAINING_SOURCES/src/build/CMakeFiles/training.dir
+/home/dell/Documents/ss1/session_01_src/TRAINING_SOURCES/src/build/CMakeFiles/edit_cache.dir
+/home/dell/Documents/ss1/session_01_src/TRAINING_SOURCES/src/build/CMakeFiles/rebuild_cache.dir
