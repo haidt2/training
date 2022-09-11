@@ -14,5 +14,5 @@ add_executable(training ${CMAKE_IMAGE_DIR}/main.cpp
     # ${LIB_DIR}/foo.cpp 
     ${LIB_DIR}/lodepng.cpp
     ${LIB_DIR}/lodepng_image.cpp
-    ${LIB_DIR}/pngpp_image.cpp
+    # ${LIB_DIR}/pngpp_image.cpp
     )
