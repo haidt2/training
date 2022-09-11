@@ -1,0 +1,3 @@
+/home/dell/Documents/branch/training/TRAINING_SOURCES/src/test/CMakeFiles/ut_test.dir
+/home/dell/Documents/branch/training/TRAINING_SOURCES/src/test/CMakeFiles/edit_cache.dir
+/home/dell/Documents/branch/training/TRAINING_SOURCES/src/test/CMakeFiles/rebuild_cache.dir

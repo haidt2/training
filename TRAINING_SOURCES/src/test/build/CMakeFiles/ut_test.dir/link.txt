@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -pthread -lstdc++fs -O3 -fPIC CMakeFiles/ut_test.dir/ggtest.cpp.o CMakeFiles/ut_test.dir/home/dell/Documents/branch/training/TRAINING_SOURCES/src/lib/lodepng_image.cpp.o CMakeFiles/ut_test.dir/home/dell/Documents/branch/training/TRAINING_SOURCES/src/lib/lodepng.cpp.o -o ut_test  lib/libgtest_main.a lib/libgtest.a 

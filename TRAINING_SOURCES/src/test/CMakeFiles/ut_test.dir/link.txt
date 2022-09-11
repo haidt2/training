@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -pthread -lstdc++fs -O3 -fPIC CMakeFiles/ut_test.dir/ggtest.cpp.o -o ut_test 

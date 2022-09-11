@@ -1,0 +1,3 @@
+/home/dell/Documents/branch/training/TRAINING_SOURCES/src/test/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/home/dell/Documents/branch/training/TRAINING_SOURCES/src/test/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/home/dell/Documents/branch/training/TRAINING_SOURCES/src/test/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
